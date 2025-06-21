@@ -1,0 +1,37 @@
+{
+  "users": {
+    "user_67676b5b-b8e8-4b8e-9b8e-8b8e8b8e8b8e": {
+      "id": "user_67676b5b-b8e8-4b8e-9b8e-8b8e8b8e8b8e",
+      "createdAt": "2024-12-21T18:30:00.000Z",
+      "habits": {},
+      "stats": {
+        "totalHabits": 0,
+        "totalCompletions": 0,
+        "currentStreak": 0,
+        "longestStreak": 0
+      }
+    },
+    "user_67676b5b-c9f9-5c9f-ac9f-9c9f9c9f9c9f": {
+      "id": "user_67676b5b-c9f9-5c9f-ac9f-9c9f9c9f9c9f",
+      "createdAt": "2024-12-21T19:15:00.000Z",
+      "habits": {},
+      "stats": {
+        "totalHabits": 0,
+        "totalCompletions": 0,
+        "currentStreak": 0,
+        "longestStreak": 0
+      }
+    },
+    "user_67676b5b-d0a0-6d0a-bd0a-0d0a0d0a0d0a": {
+      "id": "user_67676b5b-d0a0-6d0a-bd0a-0d0a0d0a0d0a",
+      "createdAt": "2024-12-21T20:00:00.000Z",
+      "habits": {},
+      "stats": {
+        "totalHabits": 0,
+        "totalCompletions": 0,
+        "currentStreak": 0,
+        "longestStreak": 0
+      }
+    }
+  }
+}
